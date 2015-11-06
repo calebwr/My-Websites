@@ -1,0 +1,42 @@
+body {
+    background-color:lightblue;
+    margin:1;
+    font-family:Helvetica, Arial, sans-serif;
+    padding:0;
+}
+
+#logo{
+    width:1265px; 
+    height:400px;
+    text-align:center;
+}
+#footer{
+    clear:both;
+    color:grey;
+    text-align:left;
+}
+#maintitle{
+    text-align:center;
+    color:#B5A5A5;
+    margin:0;
+    font-family: 'Bitter', serif;
+}
+#maintitle1{
+    background-color:white;
+}
+#nav .nav1{
+    float:left;
+    text-align:center;
+    font-size:21px;
+}
+#nav .nav1 a:hover{
+    background-color:#aaa;
+}
+a, #links{
+ text-decoration:none;
+ color:blue;
+}
+ul{
+    list-style-type:none;
+    padding:0;
+}
